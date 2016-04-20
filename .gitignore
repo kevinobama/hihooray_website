@@ -1,0 +1,17 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+# phpstorm project files
+.idea
+
+storage
+# composer itself is not needed
+composer.phar
+composer.lock
+
+# Mac DS_Store Files
+.DS_Store
+_ide_helper.php
